@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3b9e5c3-84bb-4d4b-89e2-118ebf211436" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="d075fab9de078ccf91866aa21fc5ea698b2353ae" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gMaxnEUuyDwmu9X6WE4MIQVwoz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.SeleniumPractice [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SeleniumPractice [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SeleniumPractice [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SeleniumPractice [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/huzaifa.saad_venture/IdeaProjects/Selenium Practice/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fhihung/Documents/git_clone/Selenium_Assignment_Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/huzaifa.saad_venture/IdeaProjects/Selenium Practice/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\huzaifa.saad_venture\IdeaProjects\Selenium Practice\src\test\resources" />
+      <recent name="C:\Users\huzaifa.saad_venture\IdeaProjects\Selenium Practice\src\test\java\intermediate\tests" />
+      <recent name="C:\Users\huzaifa.saad_venture\IdeaProjects\Selenium Practice\src\test\java\advanced\tests" />
+      <recent name="C:\Users\huzaifa.saad_venture\IdeaProjects\Selenium Practice\src\test\java" />
+      <recent name="C:\Users\huzaifa.saad_venture\IdeaProjects\Selenium Practice\src\test\java\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/huzaifa.saad_venture/IdeaProjects/Selenium Practice/src/test/resources/testng.xml">
+    <configuration name="C:/Users/huzaifa.saad_venture/IdeaProjects/Selenium Practice/src/test/resources/testng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Assignment_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediate.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="intermediate.tests" />
+      <option name="MAIN_CLASS_NAME" value="intermediate.tests.LoginTests" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTests.loginTest" />
+        <item itemvalue="TestNG.C:/Users/huzaifa.saad_venture/IdeaProjects/Selenium Practice/src/test/resources/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3b9e5c3-84bb-4d4b-89e2-118ebf211436" name="Changes" comment="" />
+      <created>1715510159350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715510159350</updated>
+      <workItem from="1716768740176" duration="1471000" />
+      <workItem from="1716776144502" duration="832000" />
+      <workItem from="1716856839737" duration="1037000" />
+      <workItem from="1716858103105" duration="3247000" />
+      <workItem from="1717460140227" duration="443000" />
+      <workItem from="1718160668321" duration="1658000" />
+      <workItem from="1718162364317" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.reactivex.rxjava3:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Selenium_Assignment_Java$C__Users_huzaifa_saad_venture_IdeaProjects_Selenium_Practice_src_test_resources_testng_xml.ic" NAME="C:/Users/huzaifa.saad_venture/IdeaProjects/Selenium Practice/src/test/resources/testng.xml Coverage Results" MODIFIED="1716776120411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
